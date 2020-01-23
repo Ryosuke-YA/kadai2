@@ -7,4 +7,7 @@
  
 　・誰でも親しみやすいゲームのコントローラでロボットを操作可能
 
-#LICENCE
+# LICENCE
+BSD 3-Clause "New" or "Revised" License
+
+# 
